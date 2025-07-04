@@ -20,15 +20,7 @@ A simple yet fully functional Tic Tac Toe web game built from scratch using vani
 
 - **HTML5** – Structure and layout  
 - **CSS3** – Styling and responsiveness  
-- **JavaScript (Vanilla)** – Game logic and interactivity
-
----
-
-## 📸 Screenshots
-
-<img src="https://inspiring-brigadeiros-4e776a.netlify.app/screenshot.png" alt="Game Screenshot" width="600"/>
-
-*Replace with your own screenshot if needed*
+- **JavaScript** – Game logic and interactivity
 
 ---
 
